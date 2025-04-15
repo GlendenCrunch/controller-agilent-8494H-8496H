@@ -8,6 +8,7 @@
  - case.zip: device body.
  
 Habr: https://habr.com/ru/articles/812755/
+
 Instructables: https://www.instructables.com/Controller-Attenuator-AgilentKeysight-8494H-8496H/
 
 + Circuit:
